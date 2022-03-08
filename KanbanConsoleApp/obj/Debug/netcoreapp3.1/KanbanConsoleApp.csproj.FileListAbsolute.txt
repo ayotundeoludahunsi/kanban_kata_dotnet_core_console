@@ -1,0 +1,12 @@
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/bin/Debug/netcoreapp3.1/KanbanConsoleApp.deps.json
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/bin/Debug/netcoreapp3.1/KanbanConsoleApp.runtimeconfig.json
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/bin/Debug/netcoreapp3.1/KanbanConsoleApp.runtimeconfig.dev.json
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/bin/Debug/netcoreapp3.1/KanbanConsoleApp.dll
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/bin/Debug/netcoreapp3.1/KanbanConsoleApp.pdb
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/obj/Debug/netcoreapp3.1/KanbanConsoleApp.csprojAssemblyReference.cache
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/obj/Debug/netcoreapp3.1/KanbanConsoleApp.AssemblyInfoInputs.cache
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/obj/Debug/netcoreapp3.1/KanbanConsoleApp.AssemblyInfo.cs
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/obj/Debug/netcoreapp3.1/KanbanConsoleApp.csproj.CoreCompileInputs.cache
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/obj/Debug/netcoreapp3.1/KanbanConsoleApp.dll
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/obj/Debug/netcoreapp3.1/KanbanConsoleApp.pdb
+/Users/ayo/ayotunde/HALLAM/Placement Tasks/KanbanConsoleApp/KanbanConsoleApp/obj/Debug/netcoreapp3.1/KanbanConsoleApp.genruntimeconfig.cache
